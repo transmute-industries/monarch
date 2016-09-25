@@ -1,9 +1,0 @@
-[submodule "monarch-app"]
-	path = monarch-app
-	url = git@github.com:transmute-industries/monarch-app.git
-[submodule "monarch-ipfs"]
-	path = monarch-ipfs
-	url = git@github.com:transmute-industries/monarch-ipfs.git
-[submodule "monarch-chain"]
-	path = monarch-chain
-	url = git@github.com:transmute-industries/monarch-chain.git
