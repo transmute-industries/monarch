@@ -35,3 +35,8 @@ Build an Enterprise Quality DApp in 1 minute.
 
 - firebase supports rapid application development.
 - easy to replace the persistence or blockchain layers.
+
+
+### Related Reading
+
+- https://uport.me/library/pdf/whitepaper.pdf
